@@ -3,4 +3,4 @@ This repository contains source code of "Knowledge Extraction Module" with diffe
 
 
 We thank all collaborators who contributed to this work:
-[Dr. Jeff Z. Pan](http://homepages.abdn.ac.uk/jeff.z.pan/pages/), [Dr. Fernando Bobillo](http://webdiis.unizar.es/~fbobillo/), [Dr. Martin J. Kollingbaum](http://www.abdn.ac.uk/ncs/people/profiles/m.j.kollingbaum), and [Dr. Eduardo Mena](http://webdiis.unizar.es/~mena/).
+[Dr. Fernando Bobillo](http://webdiis.unizar.es/~fbobillo/), [Dr. Martin J. Kollingbaum](http://www.abdn.ac.uk/ncs/people/profiles/m.j.kollingbaum), [Dr. Jeff Z. Pan](http://homepages.abdn.ac.uk/jeff.z.pan/pages/), and [Dr. Eduardo Mena](http://webdiis.unizar.es/~mena/).
